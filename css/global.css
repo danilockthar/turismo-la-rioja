@@ -1,0 +1,22 @@
+.react-datepicker-popper {
+    z-index: 2000;
+}
+.ant-steps-item-process .ant-steps-item-icon {
+    background: #41060ca3 !important;
+    border: #41060ca3 !important;
+}
+.ant-steps-item-finish .ant-steps-item-icon {
+    border-color: #41060ca3 !important;
+}
+.ant-steps-item-finish .ant-steps-item-icon > .ant-steps-icon {
+    color: #41060ca3;
+}
+.input-wrapper.jsx-3840727128 {
+    border: 1px solid #b8b8b7 !important;
+}
+span.jsx-774286681 {
+    border: 1px solid #b8b8b7 !important;
+}
+.ant-notification-notice-with-icon .ant-notification-notice-message {
+    color: white !important;
+}
